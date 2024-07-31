@@ -144,7 +144,7 @@ func (w Walking) TrainingInfo() InfoMessage {
 
 // Константы для расчета потраченных килокалорий при плавании.
 const (
-	SwimmingLenStep                  = 1.38 // длина одного гребка
+	SwimmingLenStep                  = 1.38 // длина одного гребк
 	SwimmingCaloriesMeanSpeedShift   = 1.1  // коэффициент изменения средней скорости
 	SwimmingCaloriesWeightMultiplier = 2    // множитель веса пользователя
 )
